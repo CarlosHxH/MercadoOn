@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MercadoOn",
+    "slug": "MercadoOn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MercadoOn"
+}
